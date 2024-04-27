@@ -1,5 +1,7 @@
 # Ollama Movies Recommendation Chatbot
 
+"Ollama Movies Recommendation Chatbot" is a chatbot that uses Ollama, RAG, and Qdrant to provide personalized movie recommendations through a Gradio interface.
+
 ## Installation
 
 Make sure you has [ollama](https://ollama.com/) installed on your computer, we will be using [qwen:7b](https://ollama.com/library/qwen:7b) as our llm.
