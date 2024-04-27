@@ -5,7 +5,7 @@
 1. Clone the repository:
 
 ```sh
-git clone https://github/cjzhi98/ollama-movie-gpt
+git clone https://github.com/cjzhi98/ollama-movie-gpt
 ```
 
 2. Navigate to the project directory:
